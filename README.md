@@ -1,3 +1,5 @@
 # Hockey Fair Play Timer
 
-Deployable React/Vite version. Roster and game-history data are stored locally in the browser; the repository contains no seeded player data.
+GitHub/Vite deployment scaffold.
+
+The current app source needs to be placed in `src/App.jsx`.
